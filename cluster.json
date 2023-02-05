@@ -1,0 +1,365 @@
+{
+  "LINK/WETH": [
+    ["uniswap", "0.0003024"],
+    ["sushiswap", "0.0003024"],
+    ["defiswap", "0.0003027"],
+    ["0x75e48C954594d64ef9613AeEF97Ad85370F13807", "6.88"],
+    ["0x644b3950b04738a9b3A5FBD11FF9644A79e4A5Ed", "7.14"],
+    ["uniswap", "7.19"],
+    ["shibaswap", "7.20"],
+    ["uniswap", "7.20"],
+    ["defiswap", "7.21"],
+    ["balancer", "7.21"],
+    ["sushiswap", "7.23"],
+    ["uniswap", "7.31"]
+  ],
+  "LINK/UNI": [["uniswap", "7.21"]],
+  "LINK/USDC": [
+    ["sushiswap", "6.79"],
+    ["uniswap", "7.21"]
+  ],
+  "KNC/LINK": [["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "0.8864"]],
+  "CHZ/LINK": [["balancer", "0.1447"]],
+  "XYO/LINK": [["uniswap", "0.006255"]],
+  "LINK/USDT": [
+    ["uniswap", "7.12"],
+    ["sushiswap", "7.15"],
+    ["defiswap", "7.17"]
+  ],
+  "WBTC/LINK": [["balancer", "23248.88"]],
+  "SHIB/LINK": [
+    ["shibaswap", "0.00001528"],
+    ["shibaswap", "0.00001528"]
+  ],
+  "YFL/LINK": [["0x696708Db871B77355d6C2bE7290B27CF0Bb9B24b", "11.32"]],
+  "LINK/DAI": [["sushiswap", "7.070"]],
+  "LINK/COMP": [["defiswap", "0.0003057"]],
+  "LINK/ibETH": [],
+  "\ud83d\udc1f/LINK": [],
+  "aUSD/LINK": [],
+  "WETH/USDC": [
+    ["uniswap", "1663.29"],
+    ["uniswap", "1663.29"],
+    ["uniswap", "1663.53"],
+    ["uniswap", "1663.53"],
+    ["uniswap", "1666.71"],
+    ["sushiswap", "1666.90"],
+    ["uniswap", "1667.11"],
+    ["uniswap", "1667.11"]
+  ],
+  "WETH/USDT": [
+    ["uniswap", "1662.85"],
+    ["uniswap", "1662.85"],
+    ["uniswap", "1664.32"],
+    ["uniswap", "1666.70"],
+    ["sushiswap", "1667.23"],
+    ["shibaswap", "1668.64"]
+  ],
+  "WBTC/WETH": [
+    ["pancakeswap", "23284.47"],
+    ["balancer", "23308.66"],
+    ["sushiswap", "23324.67"],
+    ["uniswap", "23333.82"],
+    ["uniswap", "23333.82"],
+    ["uniswap", "23394.11"],
+    ["uniswap", "23394.11"],
+    ["uniswap", "23401.60"],
+    ["uniswap", "23635.26"]
+  ],
+  "PAW/WETH": [["uniswap", "0.000000004618"]],
+  "LOOKS/WETH": [["uniswap", "0.3358"]],
+  "WOOF/WETH": [["uniswap", "0.003118"]],
+  "rDPX/WETH": [["sushiswap", "54.55"]],
+  "HEX/WETH": [
+    ["uniswap", "0.0002581"],
+    ["uniswap", "0.0002598"],
+    ["uniswap", "0.04115"],
+    ["uniswap", "0.04115"],
+    ["uniswap", "0.04123"],
+    ["uniswap", "0.04135"],
+    ["solidlycom", "0.04146"]
+  ],
+  "BONE/WETH": [
+    ["shibaswap", "1.86"],
+    ["uniswap", "1.86"]
+  ],
+  "RVP/WETH": [["uniswap", "0.01804"]],
+  "ELON/WETH": [["uniswap", "0.0000004413"]],
+  "LDO/WETH": [["uniswap", "2.14"]],
+  "SYN/WETH": [["sushiswap", "1.18"]],
+  "MATIC/WETH": [["uniswap", "1.23"]],
+  "GLM/WETH": [["sushiswap", "0.2798"]],
+  "SHIB/WETH": [
+    ["solidlycom", "0.00001485"],
+    ["uniswap", "0.00001509"],
+    ["uniswap", "0.00001509"],
+    ["uniswap", "0.00001512"],
+    ["shibaswap", "0.00001512"],
+    ["uniswap", "0.00001516"],
+    ["sushiswap", "0.00001523"],
+    ["safemoonswap", "0.00001524"],
+    ["uniswap", "0.00001530"]
+  ],
+  "wstETH/WETH": [
+    ["sushiswap", "1817.66"],
+    ["uniswap", "1842.32"],
+    ["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "1843.66"],
+    ["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "1843.66"]
+  ],
+  "GOVI/WETH": [["0x5FA0060FcfEa35B31F7A5f6025F0fF399b98Edf1", "0.6619"]],
+  "SHI/WETH": [["shibaswap", "0.000002060"]],
+  "AKITA/WETH": [["shibaswap", "0.0000002843"]],
+  "MAGIC/WETH": [["sushiswap", "1.85"]],
+  "MASQ/WETH": [["0x696708Db871B77355d6C2bE7290B27CF0Bb9B24b", "0.4111"]],
+  "XFT/WETH": [["uniswap", "2.54"]],
+  "WETH/DAI": [
+    ["uniswap", "1664.040"],
+    ["uniswap", "1664.040"],
+    ["uniswap", "1667.26"],
+    ["sushiswap", "1667.75"],
+    ["uniswap", "1668.28"],
+    ["balancer", "1670.040"],
+    ["uniswap", "1671.35"]
+  ],
+  "ILV/WETH": [["sushiswap", "90.51"]],
+  "X2Y2/WETH": [["uniswap", "0.1823"]],
+  "USDC/USDT": [
+    ["0x818339b4E536E707f14980219037c5046b049dD4", "0.2906"],
+    ["0x818339b4E536E707f14980219037c5046b049dD4", "0.2906"],
+    ["uniswap", "0.9995"],
+    ["uniswap", "0.9995"],
+    ["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "0.9997"],
+    ["balancer", "0.9997"],
+    ["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "0.9997"],
+    ["balancer", "0.9998"],
+    ["uniswap", "0.9998"],
+    ["uniswap", "0.9998"],
+    ["uniswap", "1.00"]
+  ],
+  "HEX/USDC": [
+    ["uniswap", "0.04115"],
+    ["uniswap", "0.04115"],
+    ["uniswap", "0.04123"],
+    ["uniswap", "0.04123"],
+    ["uniswap", "0.04179"]
+  ],
+  "USDD/USDC": [["uniswap", "0.9917"]],
+  "DAI/USDC": [
+    ["uniswap", "0.9986"],
+    ["balancer", "0.9999"],
+    ["balancer", "0.9999"],
+    ["uniswap", "1.00"],
+    ["uniswap", "1.00"],
+    ["uniswap", "1.00"]
+  ],
+  "WBTC/USDC": [
+    ["uniswap", "23331.80"],
+    ["uniswap", "23347.31"],
+    ["uniswap", "23347.31"],
+    ["uniswap", "23364.65"],
+    ["uniswap", "23364.65"]
+  ],
+  "wstETH/USDC": [
+    ["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "1841.23"],
+    ["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "1841.23"]
+  ],
+  "FRAX/USDC": [["uniswap", "0.9995"]],
+  "BUSD/USDC": [["uniswap", "0.9999"]],
+  "ASTO/USDC": [["uniswap", "0.06928"]],
+  "FLEX/USDC": [["uniswap", "1.57"]],
+  "SYN/USDC": [["sushiswap", "1.18"]],
+  "ALI/USDC": [["uniswap", "0.04173"]],
+  "HDRN/USDC": [["uniswap", "0.000002326"]],
+  "WEMIX/USDC": [["uniswap", "1.48"]],
+  "TSUKA/USDC": [["uniswap", "0.08470"]],
+  "1INCH/USDC": [["uniswap", "0.6019"]],
+  "XMON/USDC": [["uniswap", "19248.48"]],
+  "OPUL/USDC": [["uniswap", "0.2321"]],
+  "USDD/USDT": [["uniswap", "0.9916"]],
+  "EFI/USDT": [
+    ["uniswap", "0.1184"],
+    ["sushiswap", "0.1239"]
+  ],
+  "DAI/USDT": [
+    ["0x818339b4E536E707f14980219037c5046b049dD4", "0.4379"],
+    ["0x818339b4E536E707f14980219037c5046b049dD4", "0.4379"],
+    ["uniswap", "0.9998"],
+    ["uniswap", "0.9998"],
+    ["uniswap", "0.9999"],
+    ["uniswap", "0.9999"],
+    ["uniswap", "1.00"]
+  ],
+  "TT/USDT": [["uniswap", "0.05141"]],
+  "RACA/USDT": [["uniswap", "0.0002765"]],
+  "AGIX/USDT": [["uniswap", "0.4093"]],
+  "FRAX/USDT": [
+    ["solidlycom", "0.9992"],
+    ["uniswap", "0.9992"]
+  ],
+  "SAITO/USDT": [["uniswap", "0.01612"]],
+  "SNP/USDT": [["uniswap", "63.99"]],
+  "DUSK/USDT": [["uniswap", "0.1768"]],
+  "DOGE/USDT": [["uniswap", "0.09578"]],
+  "BUSD/USDT": [["uniswap", "0.9995"]],
+  "RELAY/USDT": [["uniswap", "1.56"]],
+  "FX/USDT": [["uniswap", "0.2008"]],
+  "CHZ/USDT": [["uniswap", "0.1459"]],
+  "SHIB/BONE": [
+    ["uniswap", "0.00001509"],
+    ["uniswap", "0.00001509"],
+    ["shibaswap", "0.00001516"]
+  ],
+  "SHIB0.5/SHIB": [["uniswap", "4.54"]],
+  "LEASH/SHIB": [
+    ["uniswap", "516.60"],
+    ["shibaswap", "525.72"]
+  ],
+  "SHIB/USDC": [
+    ["uniswap", "0.00001503"],
+    ["shibaswap", "0.00001519"]
+  ],
+  "SHIB/ELON": [["shibaswap", "0.00001499"]],
+  "SHIB/USDT": [
+    ["shibaswap", "0.00001513"],
+    ["uniswap", "0.00001530"],
+    ["uniswap", "0.00001558"]
+  ],
+  "SHIB/MATIC": [["shibaswap", "0.00001512"]],
+  "SOTU/SHIB": [["uniswap", "947309.89"]],
+  "UFO/SHIB": [["shibaswap", "0.000002011"]],
+  "METH/SHIB": [["shibaswap", "0.06152"]],
+  "MM/SHIB": [["shibaswap", "2.35"]],
+  "SHIB/STATE": [["uniswap", "0.00001373"]],
+  "HEX/SHIB": [["uniswap", "0.03830"]],
+  "SAITAMA/SHIB": [["shibaswap", "0.002509"]],
+  "VVV/SHIB": [["uniswap", "0.4126"]],
+  "SPOOL/DAI": [["uniswap", "0.2667"]],
+  "O/DAI": [["uniswap", "0.00003220"]],
+  "OHM/DAI": [["balancer", "10.090"]],
+  "FUSE/DAI": [["uniswap", "0.09869"]],
+  "FUN/DAI": [["uniswap", "0.007202"]],
+  "RAI/DAI": [["uniswap", "2.77"]],
+  "Z3/DAI": [["uniswap", "0.2920"]],
+  "BUSD/DAI": [["uniswap", "0.9995"]],
+  "GLM/DAI": [["uniswap", "0.2751"]],
+  "FRAX/DAI": [["uniswap", "0.9995"]],
+  "CoreDAO/DAI": [["uniswap", "1.10"]],
+  "HEX/DAI": [
+    ["uniswap", "0.04237"],
+    ["uniswap", "0.04560"],
+    ["uniswap", "0.04560"]
+  ],
+  "DIGITS/DAI": [["uniswap", "0.01456"]],
+  "DEC/DAI": [["uniswap", "0.0007417"]],
+  "HOPR/DAI": [["uniswap", "0.06118"]],
+  "HEZ/DAI": [["uniswap", "4.38"]],
+  "BADGER/WBTC": [
+    ["uniswap", "3.31"],
+    ["uniswap", "3.32"],
+    ["sushiswap", "3.32"]
+  ],
+  "XTP/WBTC": [
+    ["uniswap", "0.01663"],
+    ["uniswap", "0.01663"]
+  ],
+  "FUN/WBTC": [["uniswap", "0.007171"]],
+  "WBTC/BADGER": [["balancer", "23269.84"]],
+  "LQTY/WBTC": [["uniswap", "0.7024"]],
+  "WBTC/USDT": [["uniswap", "23374.50"]],
+  "AUSD/WBTC": [["uniswap", "0.1167"]],
+  "XSGD/WBTC": [["uniswap", "0.7564"]],
+  "ICHI/WBTC": [["uniswap", "4.48"]],
+  "UNI/WBTC": [["uniswap", "7.23"]],
+  "WBTC/DAI": [["uniswap", "23322.030"]],
+  "SYLO/WBTC": [["uniswap", "0.002242"]],
+  "XIDR/WBTC": [["uniswap", "0.00006647"]],
+  "WBTC/DIGG": [["balancer", "23373.28"]],
+  "WBTC/graviAURA": [["balancer", "23238.46"]],
+  "WBTC/CHZ": [["balancer", "23307.92"]],
+  "VVV/WBTC": [["uniswap", "0.3957"]],
+  "WBTC/COMP": [["balancer", "23280.83"]],
+  "stETH/WETH": [
+    ["uniswap", "1662.070"],
+    ["uniswap", "1669.23"]
+  ],
+  "stETH/USDC": [["uniswap", "1496.30"]],
+  "XTP/WETH": [
+    ["uniswap", "0.01378"],
+    ["uniswap", "0.01648"],
+    ["uniswap", "0.01675"]
+  ],
+  "LDO/wstETH": [["0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a", "2.16"]],
+  "wstETH/DAI": [["sushiswap", "1840.96"]],
+  "wstETH/BAL": [["balancer", "1842.63"]],
+  "FXS/FRAX": [
+    ["uniswap", "10.25"],
+    ["fraxswap", "10.27"],
+    ["uniswap", "10.29"]
+  ],
+  "FXS/WETH": [
+    ["uniswap", "0.00001547"],
+    ["sushiswap", "0.00001557"],
+    ["uniswap", "10.27"],
+    ["uniswap", "10.29"],
+    ["sushiswap", "10.31"],
+    ["uniswap", "10.32"]
+  ],
+  "FXS/USDC": [["uniswap", "10.13"]],
+  "frxETH/FXS": [["solidlycom", "1633.99"]],
+  "FPI/FXS": [["fraxswap", "1.060"]],
+  "FPIS/FXS": [["uniswap", "1.32"]],
+  "NEXO/WETH": [
+    ["uniswap", "0.7899"],
+    ["uniswap", "0.7930"]
+  ],
+  "NEXO/USDC": [["uniswap", "0.7833"]],
+  "HDRN/HEX": [
+    ["uniswap", "0.000002351"],
+    ["uniswap", "0.000002356"],
+    ["uniswap", "0.000002362"]
+  ],
+  "MAXI/HEX": [
+    ["uniswap", "0.05219"],
+    ["uniswap", "0.05234"],
+    ["uniswap", "0.05251"]
+  ],
+  "DECI/HEX": [["uniswap", "0.03506"]],
+  "ICSA/HEX": [
+    ["uniswap", "0.8468"],
+    ["uniswap", "0.8865"],
+    ["uniswap", "0.8872"]
+  ],
+  "LUCKY/HEX": [["uniswap", "0.03537"]],
+  "PLSD/HEX": [["uniswap", "4.45"]],
+  "TRIO/HEX": [
+    ["uniswap", "0.04146"],
+    ["uniswap", "0.04306"]
+  ],
+  "BASE/HEX": [
+    ["uniswap", "0.04119"],
+    ["uniswap", "0.04244"]
+  ],
+  "HEX/USDT": [["uniswap", "0.04228"]],
+  "DRAK/HEX": [["uniswap", "3.69"]],
+  "COM/HEX": [["uniswap", "0.000000000009579"]],
+  "CRV/WETH": [
+    ["sushiswap", "1.070"],
+    ["uniswap", "1.070"],
+    ["defiswap", "1.080"],
+    ["balancer", "1.080"],
+    ["uniswap", "1.080"],
+    ["uniswap", "1.080"]
+  ],
+  "CRV/USDC": [["uniswap", "1.080"]],
+  "cvxCRV/CRV": [
+    ["uniswap", "0.9399"],
+    ["sushiswap", "0.9712"]
+  ],
+  "WBTC/CRV": [["balancer", "23190.14"]],
+  "CVX/CRV": [["uniswap", "6.45"]],
+  "CRV/USDT": [
+    ["uniswap", "1.070"],
+    ["uniswap", "1.090"]
+  ],
+  "CRV/UNI": [["uniswap", "1.090"]]
+}
